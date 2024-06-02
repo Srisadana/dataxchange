@@ -1,0 +1,7 @@
+mkdir DataTradeHub
+cd DataTradeHub
+npx create-react-app frontend
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken cors dotenv
