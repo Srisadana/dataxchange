@@ -9,7 +9,7 @@ function App() {
     return (
         <Router>
             <div>
-                <h1>DataTradeHub</h1>
+                <h1>Dataxchange/h1>
                 <Switch>
                     <Route path="/login" component={Login} />
                     <Route path="/register" component={Register} />
