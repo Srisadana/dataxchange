@@ -1,5 +1,5 @@
-mkdir DataTradeHub
-cd DataTradeHub
+mkdir Dataxchange
+cd Dataxchange
 npx create-react-app frontend
 mkdir backend
 cd backend
